@@ -330,13 +330,13 @@ async def inline_handler(event):  # sourcery no-metrics
 
             (
 
-                Button.url("قنـاة السـورس", "https://t.me/def_Zoka"),
+                Button.url("قنـاة السـورس", "https://t.me/Veno_m_1"),
 
                 Button.url(
 
                     "مطـور السـورس",
 
-                    "https://t.me/IC_X_K",
+                    "https://t.me/K_o_c_1",
 
                 ),
 
@@ -354,7 +354,7 @@ async def inline_handler(event):  # sourcery no-metrics
 
         text, msg_entities = await event.client._parse_message_text(
 
-            "𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗼𝘄𝗻 𝐑𝐄𝐅𝐙⛤.", "md"
+            "𓏺𝗦𝗼𝘂𝗿𝗰𝗲ᯓ𝗩𝗘𝗡𝗢𝗠𖠛.", "md"
 
         )
 
@@ -364,11 +364,11 @@ async def inline_handler(event):  # sourcery no-metrics
 
             type="photo",
 
-            title="𝐑𝐄𝐅𝐙⛤ 𓅛",
+            title="𝐕𝐄𝐍𝐎𝐌☬",
 
             description="روابـط التنصـيب",
 
-            url="https://t.me/def_Zoka",
+            url="https://t.me/Veno_m_1",
 
             thumb=photo,
 
