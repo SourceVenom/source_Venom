@@ -1,6 +1,6 @@
-#تعريب وتحديث فريق ريفز
-# Refz UsetBot T.me/def_Zoka
-# Devolper Senzir T.me/IC_X_K
+#تعريب وتحديث فريق فينوم 
+# Refz UsetBot T.me/Veno_m_1
+# Devolper Senzir T.me/Veno_m_1
 import asyncio
 import logging
 
