@@ -172,7 +172,7 @@ async def startupmessage():
 
                 "https://graph.org/file/5340a83ac9ca428089577.jpg",
                 
-                caption="**•⎆┊تـم بـدء تشغـيل سـورس ريفز الخاص بك .. بنجاح 🧸♥️**",
+                caption="**•⎆┊تـم بـدء تشغـيل سـورس فينوم الخاص بك .. بنجاح 🧸♥️**",
                 
                 buttons=[(Button.url("𝗦َِ𝗼َِ𝗨َِ𝗿َِ𝗖َِ𝗲 َِ𝗥َِ𝗲َِ𝗙َِ𝘇", "https://t.me/def_Zoka"),)],
                 
@@ -348,7 +348,7 @@ async def add_bot_to_logger_group(chat_id):
 
 
 
-zthon = {"@def_Zoka", "@TY_X_X", "@FH_EF", "@KALAYISH", "@lackhak", "@source_refz"}
+zthon = {"@K_o_c_3", "@K_o_c_3", "@K_o_c_3", "@K_o_c_3", "@K_o_c_3", "@K_o_c_3"}
 async def saves():
 
    for Cat in zthon:
