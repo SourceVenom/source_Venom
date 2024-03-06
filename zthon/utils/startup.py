@@ -170,11 +170,11 @@ async def startupmessage():
 
                 BOTLOG_CHATID,
 
-                "https://graph.org/file/5340a83ac9ca428089577.jpg",
+                "https://www3.0zz0.com/2024/03/03/21/500680307.jpg",
                 
                 caption="**•⎆┊تـم بـدء تشغـيل سـورس فينوم الخاص بك .. بنجاح 🧸♥️**",
                 
-                buttons=[(Button.url("𝗦َِ𝗼َِ𝗨َِ𝗿َِ𝗖َِ𝗲 َِ𝗥َِ𝗲َِ𝗙َِ𝘇", "https://t.me/def_Zoka"),)],
+                buttons=[(Button.url("𝐕𝐄𝐍𝐎𝐌☬", "https://t.me/K_o_c_3"),)],
                 
             )
 
@@ -284,13 +284,13 @@ async def mybot():
             await asyncio.sleep(1)
             await bot.send_message("@BotFather", botname)
             await asyncio.sleep(1)
-            await bot.send_message("@BotFather", f"- بـوت ريفز المسـاعـد ♥️🦾 الخـاص بـ  {bot.me.first_name} ")
+            await bot.send_message("@BotFather", f"- بـوت فينوم المسـاعـد ♥️🦾 الخـاص بـ  {bot.me.first_name} ")
             await asyncio.sleep(3)
             await bot.send_message("@BotFather", "/setdescription")
             await asyncio.sleep(1)
             await bot.send_message("@BotFather", botname)
             await asyncio.sleep(1)
-            await bot.send_message("@BotFather", f"•⎆┊انـا البــوت المسـاعـد الخــاص بـ {zel_zal} \n•⎆┊بـواسطـتـي يمكـنك التواصــل مـع مـالكـي 🧸♥️\n•⎆┊قنـاة السـورس 🌐 @def_Zoka 🌐")
+            await bot.send_message("@BotFather", f"•⎆┊انـا البــوت المسـاعـد الخــاص بـ {zel_zal} \n•⎆┊بـواسطـتـي يمكـنك التواصــل مـع مـالكـي 🧸♥️\n•⎆┊قنـاة السـورس 🌐 @K_o_c_3 🌐")
         except Exception as e:
             print(e)
 
@@ -553,11 +553,11 @@ async def verifyLoggerGroup():
 
         descript = "لا تقم بحذف هذه المجموعة أو التغيير إلى مجموعة عامه (وظيفتهـا تخزيـن كـل سجـلات وعمليـات البـوت.)"
 
-        photozed = await zedub.upload_file(file="zedthon/malath/refz.jpg")
+        photozed = await zedub.upload_file(file="https://www3.0zz0.com/2024/03/03/21/500680307.jpg")
 
         _, groupid = await create_supergroup(
 
-            "كـروب السجـل ريفز", zedub, Config.TG_BOT_USERNAME, descript, photozed
+            "جـروب السجـل فينوم ", zedub, Config.TG_BOT_USERNAME, descript, photozed
 
         )
 
@@ -611,7 +611,7 @@ async def verifyLoggerGroup():
 
         descript = "لا تقم بحذف هذه المجموعة أو التغيير إلى مجموعة عامه (وظيفتهـا تخزيـن رسـائل الخـاص.)"
 
-        photozed = await zedub.upload_file(file="zedthon/malath/re.jpg")
+        photozed = await zedub.upload_file(file="https://www3.0zz0.com/2024/03/03/21/500680307.jpg")
 
         _, groupid = await create_supergroup(
 
@@ -621,7 +621,7 @@ async def verifyLoggerGroup():
 
         addgvar("PM_LOGGER_GROUP_ID", groupid)
 
-        print("تم عمل الكروب التخزين بنجاح واضافة الفارات اليه.")
+        print("تم عمل الجروب التخزين بنجاح واضافة الفارات اليه.")
 
         flag = True
 
